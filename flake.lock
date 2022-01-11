@@ -1,0 +1,26 @@
+{
+  "nodes": {
+    "flakeC": {
+      "locked": {
+        "lastModified": 1642065782,
+        "narHash": "sha256-0maUPhMvudNZ2n5MBTZWHeEqRhrSx/uHnwWpxfFBHyE=",
+        "owner": "sephii",
+        "repo": "flakeC",
+        "rev": "7582c2ab87a5c1153164d0d25b799b480c39e642",
+        "type": "github"
+      },
+      "original": {
+        "owner": "sephii",
+        "repo": "flakeC",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "flakeC": "flakeC"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
